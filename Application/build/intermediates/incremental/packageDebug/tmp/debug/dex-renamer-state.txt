@@ -1,4 +1,4 @@
-#Mon Aug 03 10:13:48 CEST 2020
-base.0=D\:\\MGR-files\\BluetoothChat_Android\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Mon Aug 03 16:53:02 CEST 2020
+base.0=D\:\\MGR-files\\Aplikacja mobilna Android\\Application\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -38,4 +38,6 @@
     <string name="insecure_connect">Connect a device - Insecure</string>
     <string name="discoverable">Make discoverable</string>
 
+    <string name="app_name">iDiaper</string>
+
 </resources>

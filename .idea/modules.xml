@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" group="BluetoothChat_Android/Application" />
-      <module fileurl="file://$PROJECT_DIR$/BluetoothChat_Android.iml" filepath="$PROJECT_DIR$/BluetoothChat_Android.iml" group="BluetoothChat_Android" />
+      <module fileurl="file://$PROJECT_DIR$/Aplikacja mobilna Android.iml" filepath="$PROJECT_DIR$/Aplikacja mobilna Android.iml" group="Aplikacja mobilna Android" />
+      <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" group="Aplikacja mobilna Android/Application" />
     </modules>
   </component>
 </project>
